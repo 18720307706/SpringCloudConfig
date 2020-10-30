@@ -1,2 +1,2 @@
 config:
-  info: "spring-cloud-config-prod"
+  info: "spring-cloud-config-prod prod"
